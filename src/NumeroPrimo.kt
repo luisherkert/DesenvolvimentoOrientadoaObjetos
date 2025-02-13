@@ -11,7 +11,6 @@ fun main(){
         println("$numero Não é um numero primo")
     }
 
-
 }
 
 fun ehPrimo(n:Int): Boolean {
