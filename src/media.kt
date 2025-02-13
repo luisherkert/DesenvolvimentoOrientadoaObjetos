@@ -3,7 +3,7 @@ import java.util.*
 fun main(args: Array<String>) {
 
     val scanner = Scanner(System.`in`)
-print("Digite a quantidade de notas??")
+     print("Digite a quantidade de notas??")
     val qtdNotas = scanner.nextInt()
 
     var soma = 0.0
